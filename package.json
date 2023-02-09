@@ -1,8 +1,10 @@
 {
   "name": "@colingourlay/supernote-cloud-api",
-  "version": "1.0.0",
-  "module": "src/index.js",
+  "version": "1.0.1",
+  "main": "src/index.js",
   "type": "module",
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "license": "ISC",
   "files": [
     "src"
   ],
